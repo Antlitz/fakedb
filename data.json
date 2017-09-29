@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "coffee",
+    "price": 2,
+    "count": 1,
+    "available": 6
+  }, {
+    "id": 4,
+    "name": "fea",
+    "price": 1,
+    "count": 2,
+    "available": 8
+  }, {
+    "id": 3,
+    "name": "sensimilla",
+    "price": 4,
+    "count": 1,
+    "available": 10
+  }
+]
